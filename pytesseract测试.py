@@ -19,4 +19,4 @@ image.show()
 # print()
 # text=pt.image_to_string(image_er)
 
-# print(text)
+ print(text)
